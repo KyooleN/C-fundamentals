@@ -1,4 +1,5 @@
-# C exercises 
-## Hello everyone!
+# Hello everyone! 🍾 🥳  
+## Those exercises are the ones I did throughout my first term at College.
+Unfortunately, most if not all of them are in <b>portuguese</b> 😞. When making activities that are not related to College I'll make sure to write the <code>code</code> in <b>english</b> 😄.
 
-Those exercises are the ones I did throughout my first term at College. Unfortunately, most if not all of them are in portuguese. When making activities there are not from College I'll make sure to write the <code>code</code> in english :)
+# Thank you for taking your time to see my learning process :)
